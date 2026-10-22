@@ -6,7 +6,7 @@ import { Button } from '@/app/(frontend)/components/ui/button'
 
 export function MapSection() {
   // Replace these with your actual campus details
-  const campusCoords = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.020426054587!2d72.51998907633718!3d23.059712714939128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e8356fed6eaa7%3A0x7cf138fb3903e441!2sAvirat%20Law%20College!5e0!3m2!1sen!2sin!4v1774524280713!5m2!1sen!2sin"
+  const campusCoords = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.020571593499!2d72.51996241211548!3d23.05970737906076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa94f5e4df4749453%3A0x35370e2085127385!2sAVIRAT%20BBA%20BCA%20COLLEGE!5e0!3m2!1sen!2sin!4v1792648365990!5m2!1sen!2sin"
 
   return (
     <section className="relative py-24 bg-secondary/20 overflow-hidden ">
